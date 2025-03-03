@@ -1,0 +1,22 @@
+### Samples
+samples:
+    - sample1
+    - sample2
+    - sample3
+
+### Files I will have to use during the pipeline
+Adapters: ""
+Genome_dir: ""
+Annotation_gtf: ""
+
+### Images and anaconda envs
+Anaconda_envs:
+    snake_make: "snake_make path"
+    fastqc: "fastqc path"
+    multiqc: "multiqc path"
+    Star: "star path"
+    BBmap: "bbudk.sh path"
+
+Singularity_images:
+    featureCounts: "path_to_featureCounts"
+
