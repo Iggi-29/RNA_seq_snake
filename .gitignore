@@ -1,8 +1,8 @@
-0_raw_data/
-1_trimmed/
-2_aligned/
-3_counts/
-envs/
-images/
-logs/
-z_reference_data/
+workflow/0_raw_data/
+workflow/1_trimmed/
+workflow/2_aligned/
+workflow/3_counts/
+workflow/envs/
+workflow/images/
+workflow/logs/
+workflow/z_reference_data/
