@@ -1,0 +1,8 @@
+0_raw_data/
+1_trimmed/
+2_aligned/
+3_counts/
+envs/
+images/
+logs/
+z_reference_data/
